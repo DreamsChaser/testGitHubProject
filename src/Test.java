@@ -3,4 +3,5 @@
  * 测试上传本地工程到github
  */
 public class Test {
+    private String userName;
 }

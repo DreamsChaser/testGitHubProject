@@ -4,4 +4,5 @@
  */
 public class Test {
     private String userName;
+    private String passWord;
 }
